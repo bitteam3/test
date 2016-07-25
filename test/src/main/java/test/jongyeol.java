@@ -6,6 +6,8 @@ public class jongyeol {
 	
 	   
 	   System.out.println("dd");
+	   System.out.println("dd");
+	   
 }
 
 }
